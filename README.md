@@ -1,6 +1,7 @@
 # JS-Game-2048
-This is a small game called 2048 the point of the game is to reach a score of 2048 to win 
-to run the game all you need to do is this:
+This is a small game called 2048 the point of the game is to reach a score of 2048 to win. 
+
+To run the game all you need to do is this:
 
 1.download the 2048Game file 
 
