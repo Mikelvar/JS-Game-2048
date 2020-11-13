@@ -1,0 +1,37 @@
+.grid{
+  background-color:#3399FF;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 800px;
+  border-radius: 30px;
+  padding: 3px ;
+}
+body{
+    zoom: 80%;
+    background-color: #83CEFF;
+  }
+
+
+
+.grid div {
+
+      margin: 3px ;
+      border-style: hidden;
+      border-radius: 30px;
+      width: 194px;
+      height: 194px;
+      background-color: #FFFF33;
+      font-size: 80px;
+      text-align: center;
+      font-weight: bold;
+}
+
+
+
+.score-container{
+  font-weight: bold;
+  font-size: 90px;
+  text-align: center;
+}
